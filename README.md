@@ -56,9 +56,6 @@ JWT
 Multer
 Socket.io
 📸 Screenshots
-
-بدل "Coming Soon..." حطي هكذا:
-
 ## 🏠 Home
 
 ![Home](screenshots/Home.png)
