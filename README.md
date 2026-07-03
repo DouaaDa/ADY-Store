@@ -1,117 +1,132 @@
-# 🎮 ADY Store
+🎮 ADY Store
 
-A modern full-stack Algerian Gaming E-commerce platform built with React, Node.js, Express, and MongoDB.
+ADY Store is a modern full-stack Algerian Gaming E-commerce platform built with the MERN Stack.
 
----
+It provides a complete online shopping experience with a professional Admin Dashboard for managing products, orders, customers, promotions, banners, stock, and analytics.
 
-# 🚀 Features
-
-- User Authentication (JWT)
-- Product Catalog
-- Categories
-- Smart Search
-- Wishlist
-- Compare Products
-- Shopping Cart
-- Checkout
-- Algerian 58 Wilayas & Communes
-- Dynamic Shipping Fees
-- Coupon System
-- Promotions
-- Product Variants (Colors)
-- Image & Video Upload
-- Professional Invoice PDF
-- Order Tracking
-- Customer Dashboard
-
----
-
-# 👨‍💼 Admin Dashboard
-
-- Dashboard Analytics
-- Stock Management
-- Banner Management
-- Promotions
-- Coupons
-- Categories
-- Orders Management
-- Users Management
-- Messages Management
-- Reviews Management
-- Security Logs
-- Reports
-- Hero Customization
-
----
-
-# 🛠 Technologies
-
-## Frontend
-
-- React
-- Redux Toolkit
-- React Router
-- Tailwind CSS
-- Axios
-- Recharts
-
-## Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT
-- Multer
-- Socket.io
-
----
-
-# 📂 Project Structure
-
-```
-backend/
-frontend/
-```
-
----
-
-# ⚙ Installation
-
+🚀 Features
+👤 Customer
+Secure Authentication (JWT)
+Product Catalog
+Smart Search
+Categories
+Wishlist
+Compare Products
+Shopping Cart
+Checkout
+Algerian Shipping (58 Wilayas)
+Coupons
+Promotions
+Flash Deals
+Product Variants
+Image & Video Gallery
+PDF Invoice
+Order Tracking
+Customer Dashboard
+👨‍💼 Admin
+Dashboard Analytics
+Product Management
+Stock Management
+Banner Management
+Promotions
+Coupons
+Categories
+Orders Management
+Users Management
+Messages
+Reviews
+Security Logs
+Reports
+Homepage Hero Customization
+🛠 Tech Stack
+Frontend
+React
+Redux Toolkit
+Tailwind CSS
+React Router
+Axios
+Recharts
+Socket.io Client
 Backend
+Node.js
+Express.js
+MongoDB
+Mongoose
+JWT
+Multer
+Socket.io
+📸 Screenshots
 
-```bash
+بدل "Coming Soon..." حطي هكذا:
+
+## 🏠 Home
+
+![Home](screenshots/Home.png)
+
+---
+
+## 🛍 Shop
+
+![Shop](screenshots/Boutique.png)
+
+---
+
+## 🛒 Cart
+
+![Cart](screenshots/Panier.png)
+
+---
+
+## 🔑 Login
+
+![Login](screenshots/Connexion.png)
+
+---
+
+## 📊 Admin Dashboard
+
+![Dashboard](screenshots/Dashboard_admin.png)
+
+---
+
+## 📦 Orders
+
+![Orders](screenshots/commandes.png)
+
+---
+
+## 👥 Users
+
+![Users](screenshots/utilisateurs.png)
+
+---
+
+## 📈 Stock
+
+![Stock](screenshots/stocks.png)
+
+---
+
+## ⚙ Settings
+
+![Settings](screenshots/paramètres.png)
+⚙ Installation
+# Backend
 cd backend
 npm install
 npm run dev
-```
-
-Frontend
-
-```bash
+# Frontend
 cd frontend
 npm install
 npm run dev
-```
-
----
-
-# 📸 Screenshots
-
-Coming Soon...
-
----
-
-# 👩‍💻 Author
+👩‍💻 Author
 
 Douaa Daoud
 
-University of Tlemcen
+🎓 Software Engineering Student
 
-Software Engineering Student
+📍 University of Tlemcen
 
-Algeria 🇩🇿
+🇩🇿 Algeria
 
----
-
-# ⭐ If you like this project, don't forget to star it.
+⭐ If you like this project, don't forget to star it.
